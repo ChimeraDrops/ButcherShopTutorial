@@ -1,6 +1,3 @@
--- created by RexshackGaming : Discord : https://discord.gg/8gNCwDpQPb
--- youtube channel : https://www.youtube.com/channel/UCikEgGfXO-HCPxV5rYHEVbA
-
 MenuData = {}
 TriggerEvent("redemrp_menu_base:getData",function(call)
     MenuData = call
@@ -36,7 +33,7 @@ local butchershop = {
 }
 
 RegisterNetEvent('ButcherRawPriceFetched')
-AddEventHandler('ButcherRawPriceFetched', function(source, rawbiggame,rawvension,rawbeef,rawaligator,rawbird,rawgame,rawpork,rawfish,rawherp,rawstringy,rawmutton,blank)
+AddEventHandler('ButcherRawPriceFetched', function(rawbiggame,rawvension,rawbeef,rawaligator,rawbird,rawgame,rawpork,rawfish,rawherp,rawstringy,rawmutton,blank)
    local _source = source
    biggame_price = rawbiggame
    print(rawbiggame)
