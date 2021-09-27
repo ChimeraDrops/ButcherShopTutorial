@@ -1,6 +1,3 @@
--- created by RexshackGaming : Discord : https://discord.gg/8gNCwDpQPb
--- youtube channel : https://www.youtube.com/channel/UCikEgGfXO-HCPxV5rYHEVbA
-
 --meat blip = 1664425300
 --supply blip = 819673798
 --gold blip = 688589278
